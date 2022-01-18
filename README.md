@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samarjeet Singh Gandhi
-- 👀 I’m interested in coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me 
 LinkedIn- linkedin.com/in/samarjeet-singh-gandhi-4299b6224
